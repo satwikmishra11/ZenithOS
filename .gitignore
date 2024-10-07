@@ -1,0 +1,19 @@
+*.bin
+*.flp
+*.img
+*.out
+commands
+mnt
+*.a
+kernel/debug
+init/debug
+programs/*/debug
+programs/dist/
+tstl/debug
+tlib/debug
+
+# Ignore the generated log (Qemu)
+*.log
+
+# Ignore the generated pcap files (Qemu)
+*.pcap
