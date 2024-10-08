@@ -45,7 +45,7 @@ A good series of tutorials to start with is the `Broken Thorn series <http://www
 
 There are also the `James Molloy Series <https://web.archive.org/web/20160301082842/http://www.jamesmolloy.co.uk/tutorial_html/index.html>`_. It's much less complete, but if you like tutorials, it's probably going to be helpful.
 
-And of course (if you develop on Intel), the *Intel 64 and IA-32 Architectures Software Developer's Manual*, there are several parts to the guide, I've mainly used the *System Programming - Part 1* part. Although it can seem heavy, it's pretty good and will be an invaluable asset to understand the architecture: for instance, paging and interrupts handling.
+And of course (If you develop on Intel), the *Intel 64 and IA-32 Architectures Software Developer's Manual*, there are several parts to the guide, I've mainly used the *System Programming - Part 1* part. Although it can seem heavy, it's pretty good and will be an invaluable asset to understand the architecture: for instance, paging and interrupts handling.
 
 As for Books, I've been pretty much disappointed so far. There are plenty of books on operating system, but none of the few I've read so far have been great. They are probably good at helping you understand OSes, but pretty bad at helping you develop your own OS. Moreover, they are also pretty much outdated.
 
