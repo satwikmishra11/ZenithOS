@@ -1,4 +1,4 @@
-ZenithOS Operating System
+ZenithOS:- Operating System
 =====================
 
 .. image:: https://github.com/wichtounet/thor-os/wiki/images/thor-vesa.png
